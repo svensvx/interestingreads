@@ -4,6 +4,9 @@ title = 'Interesting Reads'
 minify = true
 disableHugoGeneratorInject = true
 
+[pagination]
+  pagerSize = 999
+
 [taxonomies]
   tag = "tags"
   category = "categories"
