@@ -16,7 +16,7 @@
   <link rel="shortcut icon" type="image/svg+xml" href="https://www.svgrepo.com/show/109705/open-book.svg">
   {{ $styles := resources.Get "scss/styles.scss" | toCSS (dict "outputStyle" "compressed") | minify }}
   <style>{{ $styles.Content | safeCSS }}</style>
-
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="b830aa61-e08e-497b-932b-be15aeb76f28"></script>
   {{ if .IsHome -}}
 <script type="application/ld+json">
 {
