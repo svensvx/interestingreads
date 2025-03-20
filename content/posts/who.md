@@ -4,6 +4,6 @@ description = "**Douglas Hofstadter** – a playful yet profound dialogue that e
 date = "1982-03-11"
 publishDate = "2025-03-19T15:51:18+01:00" 
 externalLink = "https://svenschnieders.com/"
-draft = true
+draft = false
 +++
 

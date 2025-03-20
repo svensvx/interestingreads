@@ -4,6 +4,6 @@ description = "**Mencius Moldbug** – Major parts of American cities that were 
 date = "2013-03-13"
 publishDate = "2025-03-19T11:58:05+01:00" 
 externalLink = "https://www.unqualified-reservations.org/2013/03/sam-altman-is-not-blithering-idiot/"
-draft = true
+draft = false
 +++
 

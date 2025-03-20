@@ -4,6 +4,6 @@ description = "**The Last Psychiatrist** – Dissects sex addiction not as indul
 date = "2012-03-12"
 publishDate = "2025-03-19T11:37:12+01:00" 
 externalLink = "https://thelastpsychiatrist.com/2012/03/shame.html"
-draft = true
+draft = false
 +++
 
