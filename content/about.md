@@ -2,8 +2,7 @@
 title = "About"
 description = "About this website"
 date = "2005-03-11"
-externalLink = "https://svenschnieders.com/"
-draft = true
+draft = false
 +++
 A list of interesting writings curated by Sven Schnieders, writer of the blog [Unfashionable](https://unfashionable.blog/).
 
